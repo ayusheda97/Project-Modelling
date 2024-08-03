@@ -52,9 +52,9 @@ This segment focuses on preparing the image data for model training. It includes
 ### 2) Model Training and Evaluation
 
 This segment involves:
-- Implementing and training multiple deep learning models, including InceptionV3, ResNet50, and ANN
+- Implementing and training multiple deep learning models, including vit_l32, EfficientNetB4, InceptionResNetV2, MobileNetV2, Xception and DenseNet201
 - Evaluating model performance using accuracy, precision, recall, and F1-score
-- Selecting InceptionV3 as the best-performing model
+- Selected the top 3 performing algorithms out of 6 and building a combined model to get a better accuracy
 
 ### In Progress
 
