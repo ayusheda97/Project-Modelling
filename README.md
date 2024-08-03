@@ -16,13 +16,7 @@ The dataset contains 10,222 images, each associated with one of 120 unique dog b
 
 ## Machine Learning Models
 
-The Python code in this repository leverages **TensorFlow** and other relevant libraries to implement and evaluate several deep learning models, including:
-
-- InceptionV3
-- ResNet50
-- Artificial Neural Network (ANN)
-
-The code provides a comprehensive evaluation of each model's performance using various metrics like precision, recall, and F1-score. After evaluation, InceptionV3 is selected as the best-performing model for dog breed classification.
+The Python code in this repository leverages **TensorFlow** and other relevant libraries to implement and evaluate several deep learning models. The code provides a comprehensive evaluation of each model's performance using various metrics like accuracy, precision, recall, and F1-score.
 
 ## Usage
 
@@ -65,9 +59,3 @@ Contributions to this repository are welcome! If you would like to suggest bette
 ## License
 
 This project is licensed under the MIT License.
-
-## Credits
-
-This project is in collaboration with [Ayush Heda](https://github.com/ACM40960/project-hedayush97).
-
-Thank you for using our Jupyter Notebook!
